@@ -1,0 +1,65 @@
+*                               { margin: 0; padding: 0; }
+body                            { font: 12px "Lucida Grande", Sans-Serif; background: url(https://code.fb.com/wp-content/uploads/2009/02/chat.jpg); /*images/bg.png*/}
+h1                              { color:#F7F405;  font-family: "Comic Sans MS", cursive, sans-serif;  font: 30px /*Helvetica, Sans-Serif;*/ margin: 0 0 10px 0; font-weight: bold;} /*#fa9f00*/
+#page-wrap                      { width: 500px; margin: 30px auto; position: relative; }
+
+#chat-wrap                      { border: 1px solid #eee; margin: 0 0 15px 0; }
+#chat-area                      { height: 300px; overflow: auto; border: 1px solid #666; padding: 20px;  background: #efe7dd url("https://cloud.githubusercontent.com/assets/398893/15136779/4e765036-1639-11e6-9201-67e728e86f39.jpg") repeat; }
+#chat-area span                 { color: white; background: #333; padding: 4px 8px; -moz-border-radius: 5px; -webkit-border-radius: 8px; margin: 0 5px 0 0; }
+#chat-area p                    { padding: 8px 0; border-bottom: 1px solid #ccc; }
+
+#name-area                      { position: absolute; top: 12px; right: 0; color: white; font: bold 12px "Lucida Grande", Sans-Serif; text-align: right; }
+#name-area span                 { color: #fa9f00; }
+
+#send-message-area p            { float: left; color: #F7F405; padding-top: 10px; font-size: 17px; font-family: "Comic Sans MS", cursive, sans-serif;}
+#sendie                         { border: 3px solid #999; width: 360px; padding: 10px; font: 15px 'lobster', cursive; float: right; }
+ 
+.btn {
+  padding: 10px;
+  font-size: 15px;
+  color: white;
+  background: #5F9EA0;
+  border: none;
+  border-radius: 5px;
+}
+.error {
+  width: 92%; 
+  margin: 0px auto; 
+  padding: 10px; 
+  border: 1px solid #a94442; 
+  color: #a94442; 
+  background: #f2dede; 
+  border-radius: 5px; 
+  text-align: left;
+}
+.success {
+  color: #3c763d; 
+  background: #dff0d8; 
+  border: 1px solid #3c763d;
+  margin-bottom: 20px;
+}
+.button {
+  background-color: #f44336; 
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+.button3:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+.logout{
+
+/*position:relative;
+margin-top:100%;*/
+ position:absolute;
+    bottom: 5%;
+    right:20%;}
