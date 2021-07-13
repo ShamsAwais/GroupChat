@@ -9,16 +9,16 @@ This Project allows user to Register into the system and allows them to Enter in
 It provides instant message display and reply feature.
 
 **Software requirements**
-•	XAMPP Server
-•	Windows 7
-•	Browser
-•	Apache Server 
-•	PHP MyAdmin
+â€¢	XAMPP Server
+â€¢	Windows 7
+â€¢	Browser
+â€¢	Apache Server 
+â€¢	PHP MyAdmin
 
 **Hardware requirements**
-•	 RAM - 2GB
-•	Hard Disk - 5GB
-•	Processor - INTEL PENTIUM 4 
+â€¢	 RAM - 2GB
+â€¢	Hard Disk - 5GB
+â€¢	Processor - INTEL PENTIUM 4 
 
 ##Getting started
 
