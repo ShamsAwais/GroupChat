@@ -20,7 +20,7 @@ It provides instant message display and reply feature.
 •	Hard Disk - 5GB
 •	Processor - INTEL PENTIUM 4 
 
-##Getting started
+## Getting started
 
 Download or clone the project from github
 ```
